@@ -1,7 +1,7 @@
 # javaM
 projet java
 
-étape 1 : télécharger https://www.jetbrains.com/fr-fr/idea/download/download-thanks.html?platform=windows&code=IIC #Facultatif
+étape 1 : télécharger https://www.jetbrains.com/fr-fr/idea/download/download-thanks.html?platform=windows&code=IIC #Facultatif \n
 étape 2 : Aller dans la classe "Main"
 étape 3 : Parcourer le programme "Main" et modifier avec vos données souhaitées
 étape 4 : Exécuter le "Main" avec la flèche ou alors appuyer sur le bouton "F5" de voter clavier
